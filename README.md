@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Adryan!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Adryan!;" />
 </h1>
 
 Sou **Desenvolvedor Web Full Stack**, apaixonado por tecnologia e por transformar ideias em aplicações reais. Atualmente estudando **Análise e Desenvolvimento de Sistemas (Estácio)** e com experiência anterior em **Infraestrutura e Redes**, o que ajuda muito no dia a dia como dev 😉
