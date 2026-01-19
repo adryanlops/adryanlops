@@ -38,10 +38,12 @@ Sou **Desenvolvedor Web Full Stack**, apaixonado por tecnologia e por transforma
 
 ---
 
+
 ## 📊 GitHub Stats
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdryanLopes&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanLopes&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/adryanlops">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adryanlops&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanlops&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
