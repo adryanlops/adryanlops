@@ -51,7 +51,9 @@ Sou **Desenvolvedor Web Full Stack**, apaixonado por tecnologia e por transforma
 ---
 
 ## 🐍 Snake Commit
-![Snake animation](https://github.com/adryanlops/adryanlops/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/adryanlops/adryanlops/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 <!--
